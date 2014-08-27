@@ -16,7 +16,6 @@
 @implementation LF_ViewController{
     
     GCDAsyncSocket *asyncSocket;
-    //NSData *data;
     IBOutlet UITextField *tfMsg;
     IBOutlet UITextField *tfIp;
     NSString *hostIp;
