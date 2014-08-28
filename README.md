@@ -13,6 +13,7 @@ On the same WiFi network, input an IP address you want to communicate with, and 
 3. You can receive messages from the client side.
 
 
+
 1. ２台のiOS端末を準備し、Server側とClient側でそれぞれアプリケーションをインストール
 
 2. Client側から相手端末のIPとメッセージを入力
