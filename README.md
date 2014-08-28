@@ -14,7 +14,7 @@
 
 https://github.com/y-natsui/CocoaAsyncSocket-Server
 
-###使用ライブラリー
+##Library
 
 CocoaAsyncSocket
 
