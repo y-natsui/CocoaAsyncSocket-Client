@@ -12,10 +12,10 @@
 
 ##CocoaAsyncSocket-Server
 
-[https://github.com/y-natsui/CocoaAsyncSocket-Server]
+https://github.com/y-natsui/CocoaAsyncSocket-Server
 
 ###使用ライブラリー
 
 CocoaAsyncSocket
 
-[https://github.com/robbiehanson/CocoaAsyncSocket]
+https://github.com/robbiehanson/CocoaAsyncSocket
